@@ -1,2 +1,2 @@
-# srand(CProjects)
+# srand(CProjects);
 my random C++,C ,C# projects
